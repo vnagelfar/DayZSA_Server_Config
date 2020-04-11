@@ -1,0 +1,9 @@
+// Update DayZ Server
+//
+@ShutdownOnFailedCommand 1 //set to 0 if updating multiple servers at once
+@NoPromptForPassword 1
+login _sad_server HRFRF1yUI4H8naIwEoXL
+//for servers which don't need a login
+//login anonymous
+app_update 223350 validate
+quit
