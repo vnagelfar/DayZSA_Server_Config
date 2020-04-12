@@ -1,5 +1,8 @@
 // Update DayZ Server
 //
+
+// Outdated. Funktioniert noch, es wurde jedoch eine neuere Version veroeffentlicht.
+
 @ShutdownOnFailedCommand 1 //set to 0 if updating multiple servers at once
 @NoPromptForPassword 1
 login _sad_server HRFRF1yUI4H8naIwEoXL

@@ -1,5 +1,7 @@
 // Update DayZ Server
-// BETA - NICHT VERWENDEN!
+
+// Outdated. Funktioniert noch, es wurde jedoch eine neuere Version veroeffentlicht.
+
 @ShutdownOnFailedCommand 1 //set to 0 if updating multiple servers at once
 @NoPromptForPassword 1
 login varlopnagelfar ktkTDuYs0bTLZQNDS7xD

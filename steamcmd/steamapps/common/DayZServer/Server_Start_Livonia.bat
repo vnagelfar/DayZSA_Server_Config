@@ -1,4 +1,7 @@
 @echo off
+:::::::::::::::::::::::::::::::::::::::::::::::
+:: Outdated. Funktioniert noch, es wurde jedoch eine neuere Version veroeffentlicht.
+:::::::::::::::::::::::::::::::::::::::::::::::
 cls
  
 set watch=DayZ Server
