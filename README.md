@@ -17,7 +17,7 @@ Diese Dateien sind nicht offiziell und ich habe mich evtl. anleiten lassen (Cred
 
 ## Links
 
-Reach out to me at one of the following places!
+Besuche mich doch mal auf meinen anderen Seiten!
 
 - Youtube <a href="https://www.youtube.com/channel/UCC6OtxYuqVVJv8Ubt25_ZQA" target="_blank">`Varlop Nagelfar`</a>
 
