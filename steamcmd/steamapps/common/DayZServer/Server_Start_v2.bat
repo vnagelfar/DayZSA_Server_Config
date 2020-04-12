@@ -1,4 +1,5 @@
 @echo off 
+:::::::::::::::::::::::::::::::::::::::::::::::
 :: Dies ist die Batch File zum Start des DayZ Standalone Server unter Windows
 :: v2.05
 :::::::::::::::::::::::::::::::::::::::::::::::
