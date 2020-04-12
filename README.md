@@ -7,8 +7,8 @@ Diese Dateien sind nicht offiziell und ich habe mich evtl. anleiten lassen (Cred
 
 ## FAQ
 
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
+- **Wieso sind einige Dateien mit OUTDATED markiet?**
+    - Dies sind alte Dateien. Ich verwende diese jedoch in einigen meiner Videos, daher sind diese noch online. Es existiert jedoch bereits eine neuere Variante dieser Datei.
 
 ---
 
