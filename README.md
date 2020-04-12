@@ -7,7 +7,7 @@ Diese Dateien sind nicht offiziell und ich habe mich evtl. anleiten lassen (Cred
 
 ## FAQ
 
-- **Wieso sind einige Dateien mit OUTDATED markiet?**
+- **Wieso sind einige Dateien mit OUTDATED markiert?**
     - Dies sind alte Dateien. Ich verwende diese jedoch in einigen meiner Videos, daher sind diese noch online. Es existiert jedoch bereits eine neuere Variante dieser Datei.
 
 ---
