@@ -26,7 +26,9 @@ set STEAM_PWD=PASSWORT
 
 :watchdog
 cd %STEAMCMD_LOCATION% 
+:::::::::::::::::::::::::::::::::::::::::::::::
 ::Update DayZ Server Dateien
+:::::::::::::::::::::::::::::::::::::::::::::::
 steamcmd.exe +login %STEAM_USER% %STEAM_PWD% +app_update 223350 +quit
 
 :::::::::::::::::::::::::::::::::::::::::::::::
