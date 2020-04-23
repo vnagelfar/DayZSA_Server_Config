@@ -1,0 +1,12 @@
+// Update DayZ Server
+//
+
+// Outdated. Funktioniert noch, es wurde jedoch eine neuere Version veroeffentlicht.
+
+@ShutdownOnFailedCommand 1 //set to 0 if updating multiple servers at once
+@NoPromptForPassword 1
+login [USERNAME] [PASSWORD]
+//for servers which don't need a login
+//login anonymous
+app_update 223350 validate
+quit
